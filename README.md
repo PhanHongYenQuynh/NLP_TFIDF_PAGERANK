@@ -24,7 +24,7 @@ Thực hiện tóm tắt văn bản tự động sử dụng thuật toán TextR
 1. **Cài đặt thư viện:**
 
 ```bash
-pip install numpy python-docx
+pip install nltk spacy python-docx numpy
 ```
 
 ## Cách sử dụng
